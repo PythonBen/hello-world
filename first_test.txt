@@ -6,3 +6,5 @@ adding a new line today
 adding another line
 
 copyright
+
+nom de la persone

@@ -1,5 +1,5 @@
 # hello-world
-Tuto one,prime
+Tuto one!
 
 Trainning with github, first tutorial
 

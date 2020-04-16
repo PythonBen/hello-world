@@ -8,7 +8,7 @@ Learnning git command
 Play with git command
 
 And an other line
-copyright Ben
+copyright Ben all rights reserved
 
 adding a line for rebasing example
 

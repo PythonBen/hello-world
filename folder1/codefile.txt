@@ -1,1 +1,3 @@
 this file will have some code
+
+adding changes before rebasing conflicts

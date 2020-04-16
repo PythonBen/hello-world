@@ -1,2 +1,3 @@
 Adding a new text file
-adding a Copy_right
+
+adding copyright

@@ -1,3 +1,3 @@
-this file will have some code
+this file will have some code, conflicting changes...
 
-adding changes before rebasing conflicts
+adding changes before rebasing conflicts, adding new changes
